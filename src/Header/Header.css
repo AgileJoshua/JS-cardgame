@@ -1,0 +1,12 @@
+
+.gameHeader{
+    border: 2px solid lightblue;
+    background-color: cadetblue;
+    padding-bottom: 25px;
+}
+
+
+.gameHeader .spacing{
+    width: 150px;
+    display: inline-block;
+}

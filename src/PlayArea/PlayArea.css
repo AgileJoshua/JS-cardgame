@@ -1,0 +1,21 @@
+.playarea{
+    display:flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.card{
+    width: 30%;
+    position: relative;
+}
+
+.discard{
+    background-color: lightgray;
+    padding:45px;
+    position:relative;
+    width:30%;
+}
+
+.discard .card{
+    position:absolute;
+}
